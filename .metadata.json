@@ -1,5 +1,9 @@
 [
   {
+    "package": "correspondenceTables",
+    "oncran": true
+  },
+  {
     "package": "restatapi",
     "oncran": true
   }
