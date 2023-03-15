@@ -1,10 +1,10 @@
 [
   {
-    "package": "restatapi",
+    "package": "correspondenceTables",
     "oncran": true
   },
   {
-    "package": "correspondenceTables",
+    "package": "restatapi",
     "oncran": true
   }
 ]
