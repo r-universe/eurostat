@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "correspondenceTables"]
-	path = correspondenceTables
-	url = https://github.com/eurostat/correspondencetables
-	shallow = true
-	registered = true
 [submodule "restatapi"]
 	path = restatapi
 	url = https://github.com/eurostat/restatapi
+	shallow = true
+	registered = true
+[submodule "correspondenceTables"]
+	path = correspondenceTables
+	url = https://github.com/eurostat/correspondencetables
 	shallow = true
 	registered = true
