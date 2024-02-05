@@ -5,6 +5,9 @@
 [submodule "correspondenceTables"]
 	path = correspondenceTables
 	url = https://github.com/eurostat/correspondencetables
+[submodule "hicp"]
+	path = hicp
+	url = https://github.com/eurostat/hicp
 [submodule "restatapi"]
 	path = restatapi
 	url = https://github.com/eurostat/restatapi
